@@ -2,7 +2,7 @@ Python FSND_Project_1
 
 Python Movie Trailer
 
-website: http://tsg1970.github.io/FSND_Project1/
+website: http://github.com/tsg1970/FSND_Project1/
 email: tsgoff@att.net
 
 ## To view website run the entertainment_center.py file
